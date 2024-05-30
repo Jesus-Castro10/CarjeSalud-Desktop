@@ -8,3 +8,12 @@ CarjeSalud Desktop es una aplicación de escritorio diseñada para administrar y
 - Historial Médico: Acceso y actualización del historial médico de los pacientes.
 - Gestión de Médicos: Registro y administración de la información de los médicos.
 - Gestión de Recepcionistas: Registro y administración de la información de los recepcionistas.
+
+# Imagenes
+![Captura de pantalla (1046)](https://github.com/Jesus-Castro10/CarjeSalud-Desktop/assets/148921370/8e9c0be1-cba2-4e6b-b5b6-0574fab5d0ec)
+
+![Captura de pantalla (1047)](https://github.com/Jesus-Castro10/CarjeSalud-Desktop/assets/148921370/f0ed57ec-bf69-456f-b72d-ae0e0af1fa07)
+
+![Captura de pantalla (1048)](https://github.com/Jesus-Castro10/CarjeSalud-Desktop/assets/148921370/ce87f050-49c8-4f31-be37-72bfdb131d0b)
+
+
